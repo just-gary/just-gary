@@ -1,4 +1,8 @@
 ### Hi there 👋
+<p>
+  <a href="https://discord.gg/wVGv6xUYGr"><img src="https://discord.com/api/guilds/873519724196167690/embed.png" alt="Discord server"/></a>
+  <a href="https://discord.gg/zAfQyacXf2"><img src="https://discord.com/api/guilds/859833307553071146/embed.png" alt="Discord server"/></a>
+</p>
 - 🔭 I’m currently working on "Primis"
 - 🌱 I’m currently learning everything possible
 
