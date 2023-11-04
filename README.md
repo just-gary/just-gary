@@ -1,9 +1,8 @@
 ### Hi there 👋
 <p>
   <a href="https://discord.gg/wVGv6xUYGr"><img src="https://discord.com/api/guilds/873519724196167690/embed.png" alt="Discord server"/></a>
-  <a href="https://discord.gg/zAfQyacXf2"><img src="https://discord.com/api/guilds/859833307553071146/embed.png" alt="Discord server"/></a>
 </p>
-- 🔭 I’m currently working on "Primis"
+- 🔭 I’m currently working on "Aizel"
 - 🌱 I’m currently learning everything possible
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Gary-dev47&title_color=246bce&text_color=ffffff&bg_color=000000&include_all_commits=true&hide_border=true&hide_title=true)
@@ -22,14 +21,5 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" />
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
-<img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
 
 ---
-<div align="center">
-  <a href="https://discord.gg/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
-  </a>
-  <a href="https://www.youtube.com/channel/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="YouTube Channel" width="80"/>
-  </a>
-</div>
